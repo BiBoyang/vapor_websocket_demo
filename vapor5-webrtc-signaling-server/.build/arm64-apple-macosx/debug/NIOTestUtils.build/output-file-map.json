@@ -1,0 +1,33 @@
+{
+  "": {
+    "swift-dependencies": "/Users/boyang/vapor5-webrtc-signaling-server/.build/arm64-apple-macosx/debug/NIOTestUtils.build/master.swiftdeps"
+  },
+  "/Users/boyang/vapor5-webrtc-signaling-server/.build/checkouts/swift-nio/Sources/NIOTestUtils/ByteToMessageDecoderVerifier.swift": {
+    "dependencies": "/Users/boyang/vapor5-webrtc-signaling-server/.build/arm64-apple-macosx/debug/NIOTestUtils.build/ByteToMessageDecoderVerifier.d",
+    "object": "/Users/boyang/vapor5-webrtc-signaling-server/.build/arm64-apple-macosx/debug/NIOTestUtils.build/ByteToMessageDecoderVerifier.swift.o",
+    "swiftmodule": "/Users/boyang/vapor5-webrtc-signaling-server/.build/arm64-apple-macosx/debug/NIOTestUtils.build/ByteToMessageDecoderVerifier~partial.swiftmodule",
+    "swift-dependencies": "/Users/boyang/vapor5-webrtc-signaling-server/.build/arm64-apple-macosx/debug/NIOTestUtils.build/ByteToMessageDecoderVerifier.swiftdeps",
+    "diagnostics": "/Users/boyang/vapor5-webrtc-signaling-server/.build/arm64-apple-macosx/debug/NIOTestUtils.build/ByteToMessageDecoderVerifier.dia"
+  },
+  "/Users/boyang/vapor5-webrtc-signaling-server/.build/checkouts/swift-nio/Sources/NIOTestUtils/EventCounterHandler.swift": {
+    "dependencies": "/Users/boyang/vapor5-webrtc-signaling-server/.build/arm64-apple-macosx/debug/NIOTestUtils.build/EventCounterHandler.d",
+    "object": "/Users/boyang/vapor5-webrtc-signaling-server/.build/arm64-apple-macosx/debug/NIOTestUtils.build/EventCounterHandler.swift.o",
+    "swiftmodule": "/Users/boyang/vapor5-webrtc-signaling-server/.build/arm64-apple-macosx/debug/NIOTestUtils.build/EventCounterHandler~partial.swiftmodule",
+    "swift-dependencies": "/Users/boyang/vapor5-webrtc-signaling-server/.build/arm64-apple-macosx/debug/NIOTestUtils.build/EventCounterHandler.swiftdeps",
+    "diagnostics": "/Users/boyang/vapor5-webrtc-signaling-server/.build/arm64-apple-macosx/debug/NIOTestUtils.build/EventCounterHandler.dia"
+  },
+  "/Users/boyang/vapor5-webrtc-signaling-server/.build/checkouts/swift-nio/Sources/NIOTestUtils/ManualTaskExecutor.swift": {
+    "dependencies": "/Users/boyang/vapor5-webrtc-signaling-server/.build/arm64-apple-macosx/debug/NIOTestUtils.build/ManualTaskExecutor.d",
+    "object": "/Users/boyang/vapor5-webrtc-signaling-server/.build/arm64-apple-macosx/debug/NIOTestUtils.build/ManualTaskExecutor.swift.o",
+    "swiftmodule": "/Users/boyang/vapor5-webrtc-signaling-server/.build/arm64-apple-macosx/debug/NIOTestUtils.build/ManualTaskExecutor~partial.swiftmodule",
+    "swift-dependencies": "/Users/boyang/vapor5-webrtc-signaling-server/.build/arm64-apple-macosx/debug/NIOTestUtils.build/ManualTaskExecutor.swiftdeps",
+    "diagnostics": "/Users/boyang/vapor5-webrtc-signaling-server/.build/arm64-apple-macosx/debug/NIOTestUtils.build/ManualTaskExecutor.dia"
+  },
+  "/Users/boyang/vapor5-webrtc-signaling-server/.build/checkouts/swift-nio/Sources/NIOTestUtils/NIOHTTP1TestServer.swift": {
+    "dependencies": "/Users/boyang/vapor5-webrtc-signaling-server/.build/arm64-apple-macosx/debug/NIOTestUtils.build/NIOHTTP1TestServer.d",
+    "object": "/Users/boyang/vapor5-webrtc-signaling-server/.build/arm64-apple-macosx/debug/NIOTestUtils.build/NIOHTTP1TestServer.swift.o",
+    "swiftmodule": "/Users/boyang/vapor5-webrtc-signaling-server/.build/arm64-apple-macosx/debug/NIOTestUtils.build/NIOHTTP1TestServer~partial.swiftmodule",
+    "swift-dependencies": "/Users/boyang/vapor5-webrtc-signaling-server/.build/arm64-apple-macosx/debug/NIOTestUtils.build/NIOHTTP1TestServer.swiftdeps",
+    "diagnostics": "/Users/boyang/vapor5-webrtc-signaling-server/.build/arm64-apple-macosx/debug/NIOTestUtils.build/NIOHTTP1TestServer.dia"
+  }
+}

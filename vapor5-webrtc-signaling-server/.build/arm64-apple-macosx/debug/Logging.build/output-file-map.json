@@ -1,0 +1,33 @@
+{
+  "": {
+    "swift-dependencies": "/Users/boyang/vapor5-webrtc-signaling-server/.build/arm64-apple-macosx/debug/Logging.build/master.swiftdeps"
+  },
+  "/Users/boyang/vapor5-webrtc-signaling-server/.build/checkouts/swift-log/Sources/Logging/Locks.swift": {
+    "dependencies": "/Users/boyang/vapor5-webrtc-signaling-server/.build/arm64-apple-macosx/debug/Logging.build/Locks.d",
+    "object": "/Users/boyang/vapor5-webrtc-signaling-server/.build/arm64-apple-macosx/debug/Logging.build/Locks.swift.o",
+    "swiftmodule": "/Users/boyang/vapor5-webrtc-signaling-server/.build/arm64-apple-macosx/debug/Logging.build/Locks~partial.swiftmodule",
+    "swift-dependencies": "/Users/boyang/vapor5-webrtc-signaling-server/.build/arm64-apple-macosx/debug/Logging.build/Locks.swiftdeps",
+    "diagnostics": "/Users/boyang/vapor5-webrtc-signaling-server/.build/arm64-apple-macosx/debug/Logging.build/Locks.dia"
+  },
+  "/Users/boyang/vapor5-webrtc-signaling-server/.build/checkouts/swift-log/Sources/Logging/LogHandler.swift": {
+    "dependencies": "/Users/boyang/vapor5-webrtc-signaling-server/.build/arm64-apple-macosx/debug/Logging.build/LogHandler.d",
+    "object": "/Users/boyang/vapor5-webrtc-signaling-server/.build/arm64-apple-macosx/debug/Logging.build/LogHandler.swift.o",
+    "swiftmodule": "/Users/boyang/vapor5-webrtc-signaling-server/.build/arm64-apple-macosx/debug/Logging.build/LogHandler~partial.swiftmodule",
+    "swift-dependencies": "/Users/boyang/vapor5-webrtc-signaling-server/.build/arm64-apple-macosx/debug/Logging.build/LogHandler.swiftdeps",
+    "diagnostics": "/Users/boyang/vapor5-webrtc-signaling-server/.build/arm64-apple-macosx/debug/Logging.build/LogHandler.dia"
+  },
+  "/Users/boyang/vapor5-webrtc-signaling-server/.build/checkouts/swift-log/Sources/Logging/Logging.swift": {
+    "dependencies": "/Users/boyang/vapor5-webrtc-signaling-server/.build/arm64-apple-macosx/debug/Logging.build/Logging.d",
+    "object": "/Users/boyang/vapor5-webrtc-signaling-server/.build/arm64-apple-macosx/debug/Logging.build/Logging.swift.o",
+    "swiftmodule": "/Users/boyang/vapor5-webrtc-signaling-server/.build/arm64-apple-macosx/debug/Logging.build/Logging~partial.swiftmodule",
+    "swift-dependencies": "/Users/boyang/vapor5-webrtc-signaling-server/.build/arm64-apple-macosx/debug/Logging.build/Logging.swiftdeps",
+    "diagnostics": "/Users/boyang/vapor5-webrtc-signaling-server/.build/arm64-apple-macosx/debug/Logging.build/Logging.dia"
+  },
+  "/Users/boyang/vapor5-webrtc-signaling-server/.build/checkouts/swift-log/Sources/Logging/MetadataProvider.swift": {
+    "dependencies": "/Users/boyang/vapor5-webrtc-signaling-server/.build/arm64-apple-macosx/debug/Logging.build/MetadataProvider.d",
+    "object": "/Users/boyang/vapor5-webrtc-signaling-server/.build/arm64-apple-macosx/debug/Logging.build/MetadataProvider.swift.o",
+    "swiftmodule": "/Users/boyang/vapor5-webrtc-signaling-server/.build/arm64-apple-macosx/debug/Logging.build/MetadataProvider~partial.swiftmodule",
+    "swift-dependencies": "/Users/boyang/vapor5-webrtc-signaling-server/.build/arm64-apple-macosx/debug/Logging.build/MetadataProvider.swiftdeps",
+    "diagnostics": "/Users/boyang/vapor5-webrtc-signaling-server/.build/arm64-apple-macosx/debug/Logging.build/MetadataProvider.dia"
+  }
+}

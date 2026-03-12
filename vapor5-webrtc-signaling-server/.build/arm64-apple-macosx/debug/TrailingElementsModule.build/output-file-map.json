@@ -1,0 +1,26 @@
+{
+  "": {
+    "swift-dependencies": "/Users/boyang/vapor5-webrtc-signaling-server/.build/arm64-apple-macosx/debug/TrailingElementsModule.build/master.swiftdeps"
+  },
+  "/Users/boyang/vapor5-webrtc-signaling-server/.build/checkouts/swift-collections/Sources/TrailingElementsModule/TrailingArray.swift": {
+    "dependencies": "/Users/boyang/vapor5-webrtc-signaling-server/.build/arm64-apple-macosx/debug/TrailingElementsModule.build/TrailingArray.d",
+    "object": "/Users/boyang/vapor5-webrtc-signaling-server/.build/arm64-apple-macosx/debug/TrailingElementsModule.build/TrailingArray.swift.o",
+    "swiftmodule": "/Users/boyang/vapor5-webrtc-signaling-server/.build/arm64-apple-macosx/debug/TrailingElementsModule.build/TrailingArray~partial.swiftmodule",
+    "swift-dependencies": "/Users/boyang/vapor5-webrtc-signaling-server/.build/arm64-apple-macosx/debug/TrailingElementsModule.build/TrailingArray.swiftdeps",
+    "diagnostics": "/Users/boyang/vapor5-webrtc-signaling-server/.build/arm64-apple-macosx/debug/TrailingElementsModule.build/TrailingArray.dia"
+  },
+  "/Users/boyang/vapor5-webrtc-signaling-server/.build/checkouts/swift-collections/Sources/TrailingElementsModule/TrailingElements.swift": {
+    "dependencies": "/Users/boyang/vapor5-webrtc-signaling-server/.build/arm64-apple-macosx/debug/TrailingElementsModule.build/TrailingElements.d",
+    "object": "/Users/boyang/vapor5-webrtc-signaling-server/.build/arm64-apple-macosx/debug/TrailingElementsModule.build/TrailingElements.swift.o",
+    "swiftmodule": "/Users/boyang/vapor5-webrtc-signaling-server/.build/arm64-apple-macosx/debug/TrailingElementsModule.build/TrailingElements~partial.swiftmodule",
+    "swift-dependencies": "/Users/boyang/vapor5-webrtc-signaling-server/.build/arm64-apple-macosx/debug/TrailingElementsModule.build/TrailingElements.swiftdeps",
+    "diagnostics": "/Users/boyang/vapor5-webrtc-signaling-server/.build/arm64-apple-macosx/debug/TrailingElementsModule.build/TrailingElements.dia"
+  },
+  "/Users/boyang/vapor5-webrtc-signaling-server/.build/checkouts/swift-collections/Sources/TrailingElementsModule/TrailingPadding.swift": {
+    "dependencies": "/Users/boyang/vapor5-webrtc-signaling-server/.build/arm64-apple-macosx/debug/TrailingElementsModule.build/TrailingPadding.d",
+    "object": "/Users/boyang/vapor5-webrtc-signaling-server/.build/arm64-apple-macosx/debug/TrailingElementsModule.build/TrailingPadding.swift.o",
+    "swiftmodule": "/Users/boyang/vapor5-webrtc-signaling-server/.build/arm64-apple-macosx/debug/TrailingElementsModule.build/TrailingPadding~partial.swiftmodule",
+    "swift-dependencies": "/Users/boyang/vapor5-webrtc-signaling-server/.build/arm64-apple-macosx/debug/TrailingElementsModule.build/TrailingPadding.swiftdeps",
+    "diagnostics": "/Users/boyang/vapor5-webrtc-signaling-server/.build/arm64-apple-macosx/debug/TrailingElementsModule.build/TrailingPadding.dia"
+  }
+}

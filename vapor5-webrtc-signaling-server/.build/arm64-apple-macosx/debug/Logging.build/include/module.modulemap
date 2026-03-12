@@ -1,0 +1,3 @@
+module Logging {
+    header "/Users/boyang/vapor5-webrtc-signaling-server/.build/arm64-apple-macosx/debug/Logging.build/include/Logging-Swift.h"
+}

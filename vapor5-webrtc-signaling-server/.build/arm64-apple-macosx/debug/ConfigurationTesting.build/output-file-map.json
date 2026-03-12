@@ -1,0 +1,12 @@
+{
+  "": {
+    "swift-dependencies": "/Users/boyang/vapor5-webrtc-signaling-server/.build/arm64-apple-macosx/debug/ConfigurationTesting.build/master.swiftdeps"
+  },
+  "/Users/boyang/vapor5-webrtc-signaling-server/.build/checkouts/swift-configuration/Sources/ConfigurationTesting/ProviderCompatTest.swift": {
+    "dependencies": "/Users/boyang/vapor5-webrtc-signaling-server/.build/arm64-apple-macosx/debug/ConfigurationTesting.build/ProviderCompatTest.d",
+    "object": "/Users/boyang/vapor5-webrtc-signaling-server/.build/arm64-apple-macosx/debug/ConfigurationTesting.build/ProviderCompatTest.swift.o",
+    "swiftmodule": "/Users/boyang/vapor5-webrtc-signaling-server/.build/arm64-apple-macosx/debug/ConfigurationTesting.build/ProviderCompatTest~partial.swiftmodule",
+    "swift-dependencies": "/Users/boyang/vapor5-webrtc-signaling-server/.build/arm64-apple-macosx/debug/ConfigurationTesting.build/ProviderCompatTest.swiftdeps",
+    "diagnostics": "/Users/boyang/vapor5-webrtc-signaling-server/.build/arm64-apple-macosx/debug/ConfigurationTesting.build/ProviderCompatTest.dia"
+  }
+}

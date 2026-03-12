@@ -1,0 +1,4 @@
+module CNIOExtrasZlib {
+    umbrella header "/Users/boyang/vapor5-webrtc-signaling-server/.build/checkouts/swift-nio-extras/Sources/CNIOExtrasZlib/include/CNIOExtrasZlib.h"
+    export *
+}

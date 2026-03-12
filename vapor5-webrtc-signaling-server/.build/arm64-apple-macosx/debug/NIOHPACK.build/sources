@@ -1,0 +1,11 @@
+/Users/boyang/vapor5-webrtc-signaling-server/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/DynamicHeaderTable.swift
+/Users/boyang/vapor5-webrtc-signaling-server/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/HPACKDecoder.swift
+/Users/boyang/vapor5-webrtc-signaling-server/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/HPACKEncoder.swift
+/Users/boyang/vapor5-webrtc-signaling-server/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/HPACKErrors.swift
+/Users/boyang/vapor5-webrtc-signaling-server/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/HPACKHeader.swift
+/Users/boyang/vapor5-webrtc-signaling-server/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/HeaderTables.swift
+/Users/boyang/vapor5-webrtc-signaling-server/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/HuffmanCoding.swift
+/Users/boyang/vapor5-webrtc-signaling-server/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/HuffmanTables.swift
+/Users/boyang/vapor5-webrtc-signaling-server/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/IndexedHeaderTable.swift
+/Users/boyang/vapor5-webrtc-signaling-server/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/IntegerCoding.swift
+/Users/boyang/vapor5-webrtc-signaling-server/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/StaticHeaderTable.swift

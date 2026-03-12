@@ -1,0 +1,4 @@
+module _CWASI {
+    umbrella header "/Users/boyang/vapor5-webrtc-signaling-server/.build/checkouts/swift-distributed-tracing/Sources/_CWASI/include/_CWASI.h"
+    export *
+}

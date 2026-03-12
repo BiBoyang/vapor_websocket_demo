@@ -1,0 +1,18 @@
+/Users/boyang/vapor5-webrtc-signaling-server/.build/checkouts/swift-asn1/Sources/SwiftASN1/ASN1.swift
+/Users/boyang/vapor5-webrtc-signaling-server/.build/checkouts/swift-asn1/Sources/SwiftASN1/BER.swift
+'/Users/boyang/vapor5-webrtc-signaling-server/.build/checkouts/swift-asn1/Sources/SwiftASN1/Basic ASN1 Types/ASN1Any.swift'
+'/Users/boyang/vapor5-webrtc-signaling-server/.build/checkouts/swift-asn1/Sources/SwiftASN1/Basic ASN1 Types/ASN1BitString.swift'
+'/Users/boyang/vapor5-webrtc-signaling-server/.build/checkouts/swift-asn1/Sources/SwiftASN1/Basic ASN1 Types/ASN1Boolean.swift'
+'/Users/boyang/vapor5-webrtc-signaling-server/.build/checkouts/swift-asn1/Sources/SwiftASN1/Basic ASN1 Types/ASN1Identifier.swift'
+'/Users/boyang/vapor5-webrtc-signaling-server/.build/checkouts/swift-asn1/Sources/SwiftASN1/Basic ASN1 Types/ASN1Integer.swift'
+'/Users/boyang/vapor5-webrtc-signaling-server/.build/checkouts/swift-asn1/Sources/SwiftASN1/Basic ASN1 Types/ASN1Null.swift'
+'/Users/boyang/vapor5-webrtc-signaling-server/.build/checkouts/swift-asn1/Sources/SwiftASN1/Basic ASN1 Types/ASN1OctetString.swift'
+'/Users/boyang/vapor5-webrtc-signaling-server/.build/checkouts/swift-asn1/Sources/SwiftASN1/Basic ASN1 Types/ASN1Strings.swift'
+'/Users/boyang/vapor5-webrtc-signaling-server/.build/checkouts/swift-asn1/Sources/SwiftASN1/Basic ASN1 Types/ArraySliceBigint.swift'
+'/Users/boyang/vapor5-webrtc-signaling-server/.build/checkouts/swift-asn1/Sources/SwiftASN1/Basic ASN1 Types/GeneralizedTime.swift'
+'/Users/boyang/vapor5-webrtc-signaling-server/.build/checkouts/swift-asn1/Sources/SwiftASN1/Basic ASN1 Types/ObjectIdentifier.swift'
+'/Users/boyang/vapor5-webrtc-signaling-server/.build/checkouts/swift-asn1/Sources/SwiftASN1/Basic ASN1 Types/PEMDocument.swift'
+'/Users/boyang/vapor5-webrtc-signaling-server/.build/checkouts/swift-asn1/Sources/SwiftASN1/Basic ASN1 Types/TimeUtilities.swift'
+'/Users/boyang/vapor5-webrtc-signaling-server/.build/checkouts/swift-asn1/Sources/SwiftASN1/Basic ASN1 Types/UTCTime.swift'
+/Users/boyang/vapor5-webrtc-signaling-server/.build/checkouts/swift-asn1/Sources/SwiftASN1/DER.swift
+/Users/boyang/vapor5-webrtc-signaling-server/.build/checkouts/swift-asn1/Sources/SwiftASN1/Errors.swift

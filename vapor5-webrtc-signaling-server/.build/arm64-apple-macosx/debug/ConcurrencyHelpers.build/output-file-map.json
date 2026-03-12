@@ -1,0 +1,19 @@
+{
+  "": {
+    "swift-dependencies": "/Users/boyang/vapor5-webrtc-signaling-server/.build/arm64-apple-macosx/debug/ConcurrencyHelpers.build/master.swiftdeps"
+  },
+  "/Users/boyang/vapor5-webrtc-signaling-server/.build/checkouts/swift-service-lifecycle/Sources/ConcurrencyHelpers/Lock.swift": {
+    "dependencies": "/Users/boyang/vapor5-webrtc-signaling-server/.build/arm64-apple-macosx/debug/ConcurrencyHelpers.build/Lock.d",
+    "object": "/Users/boyang/vapor5-webrtc-signaling-server/.build/arm64-apple-macosx/debug/ConcurrencyHelpers.build/Lock.swift.o",
+    "swiftmodule": "/Users/boyang/vapor5-webrtc-signaling-server/.build/arm64-apple-macosx/debug/ConcurrencyHelpers.build/Lock~partial.swiftmodule",
+    "swift-dependencies": "/Users/boyang/vapor5-webrtc-signaling-server/.build/arm64-apple-macosx/debug/ConcurrencyHelpers.build/Lock.swiftdeps",
+    "diagnostics": "/Users/boyang/vapor5-webrtc-signaling-server/.build/arm64-apple-macosx/debug/ConcurrencyHelpers.build/Lock.dia"
+  },
+  "/Users/boyang/vapor5-webrtc-signaling-server/.build/checkouts/swift-service-lifecycle/Sources/ConcurrencyHelpers/LockedValueBox.swift": {
+    "dependencies": "/Users/boyang/vapor5-webrtc-signaling-server/.build/arm64-apple-macosx/debug/ConcurrencyHelpers.build/LockedValueBox.d",
+    "object": "/Users/boyang/vapor5-webrtc-signaling-server/.build/arm64-apple-macosx/debug/ConcurrencyHelpers.build/LockedValueBox.swift.o",
+    "swiftmodule": "/Users/boyang/vapor5-webrtc-signaling-server/.build/arm64-apple-macosx/debug/ConcurrencyHelpers.build/LockedValueBox~partial.swiftmodule",
+    "swift-dependencies": "/Users/boyang/vapor5-webrtc-signaling-server/.build/arm64-apple-macosx/debug/ConcurrencyHelpers.build/LockedValueBox.swiftdeps",
+    "diagnostics": "/Users/boyang/vapor5-webrtc-signaling-server/.build/arm64-apple-macosx/debug/ConcurrencyHelpers.build/LockedValueBox.dia"
+  }
+}

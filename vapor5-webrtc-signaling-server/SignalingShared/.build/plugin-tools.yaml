@@ -1,0 +1,47 @@
+client:
+  name: basic
+  file-system: device-agnostic
+tools: {}
+targets:
+  "PackageStructure": ["<PackageStructure>"]
+  "SignalingShared-arm64-apple-macosx26.0-debug.module": ["<SignalingShared-arm64-apple-macosx26.0-debug.module>"]
+  "main": ["<SignalingShared-arm64-apple-macosx26.0-debug.module>"]
+  "test": ["<SignalingShared-arm64-apple-macosx26.0-debug.module>"]
+default: "main"
+nodes:
+  "/Users/boyang/vapor5-webrtc-signaling-server/SignalingShared/Sources/SignalingShared/":
+    is-directory-structure: true
+    content-exclusion-patterns: [".git",".build"]
+commands:
+  "/Users/boyang/vapor5-webrtc-signaling-server/SignalingShared/.build/arm64-apple-macosx/debug/SignalingShared.build/sources":
+    tool: write-auxiliary-file
+    inputs: ["<sources-file-list>","/Users/boyang/vapor5-webrtc-signaling-server/SignalingShared/Sources/SignalingShared/SignalingModels.swift"]
+    outputs: ["/Users/boyang/vapor5-webrtc-signaling-server/SignalingShared/.build/arm64-apple-macosx/debug/SignalingShared.build/sources"]
+    description: "Write auxiliary file /Users/boyang/vapor5-webrtc-signaling-server/SignalingShared/.build/arm64-apple-macosx/debug/SignalingShared.build/sources"
+
+  "/Users/boyang/vapor5-webrtc-signaling-server/SignalingShared/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt":
+    tool: write-auxiliary-file
+    inputs: ["<swift-get-version>","/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"]
+    outputs: ["/Users/boyang/vapor5-webrtc-signaling-server/SignalingShared/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"]
+    always-out-of-date: "true"
+    description: "Write auxiliary file /Users/boyang/vapor5-webrtc-signaling-server/SignalingShared/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+
+  "<SignalingShared-arm64-apple-macosx26.0-debug.module>":
+    tool: phony
+    inputs: ["/Users/boyang/vapor5-webrtc-signaling-server/SignalingShared/.build/arm64-apple-macosx/debug/SignalingShared.build/SignalingModels.swift.o","/Users/boyang/vapor5-webrtc-signaling-server/SignalingShared/.build/arm64-apple-macosx/debug/Modules/SignalingShared.swiftmodule"]
+    outputs: ["<SignalingShared-arm64-apple-macosx26.0-debug.module>"]
+
+  "C.SignalingShared-arm64-apple-macosx26.0-debug.module":
+    tool: shell
+    inputs: ["/Users/boyang/vapor5-webrtc-signaling-server/SignalingShared/Sources/SignalingShared/SignalingModels.swift","/Users/boyang/vapor5-webrtc-signaling-server/SignalingShared/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt","/Users/boyang/vapor5-webrtc-signaling-server/SignalingShared/.build/arm64-apple-macosx/debug/SignalingShared.build/sources"]
+    outputs: ["/Users/boyang/vapor5-webrtc-signaling-server/SignalingShared/.build/arm64-apple-macosx/debug/SignalingShared.build/SignalingModels.swift.o","/Users/boyang/vapor5-webrtc-signaling-server/SignalingShared/.build/arm64-apple-macosx/debug/Modules/SignalingShared.swiftmodule"]
+    description: "Compiling Swift Module 'SignalingShared' (1 sources)"
+    args: ["/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc","-module-name","SignalingShared","-emit-dependencies","-emit-module","-emit-module-path","/Users/boyang/vapor5-webrtc-signaling-server/SignalingShared/.build/arm64-apple-macosx/debug/Modules/SignalingShared.swiftmodule","-output-file-map","/Users/boyang/vapor5-webrtc-signaling-server/SignalingShared/.build/arm64-apple-macosx/debug/SignalingShared.build/output-file-map.json","-parse-as-library","-incremental","-c","@/Users/boyang/vapor5-webrtc-signaling-server/SignalingShared/.build/arm64-apple-macosx/debug/SignalingShared.build/sources","-I","/Users/boyang/vapor5-webrtc-signaling-server/SignalingShared/.build/arm64-apple-macosx/debug/Modules","-target","arm64-apple-macosx13.0","-incremental","-enable-batch-mode","-serialize-diagnostics","-index-store-path","/Users/boyang/vapor5-webrtc-signaling-server/SignalingShared/.build/arm64-apple-macosx/debug/index/store","-Onone","-enable-testing","-j10","-DSWIFT_PACKAGE","-DDEBUG","-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE","-module-cache-path","/Users/boyang/vapor5-webrtc-signaling-server/SignalingShared/.build/arm64-apple-macosx/debug/ModuleCache","-parseable-output","-parse-as-library","-emit-objc-header","-emit-objc-header-path","/Users/boyang/vapor5-webrtc-signaling-server/SignalingShared/.build/arm64-apple-macosx/debug/SignalingShared.build/include/SignalingShared-Swift.h","-swift-version","5","-plugin-path","/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing","-sdk","/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk","-F","/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks","-F","/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks","-I","/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib","-L","/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib","-g","-Xcc","-isysroot","-Xcc","/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.2.sdk","-Xcc","-F","-Xcc","/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks","-Xcc","-F","-Xcc","/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks","-Xcc","-fPIC","-Xcc","-g","-package-name","signalingshared"]
+
+  "PackageStructure":
+    tool: package-structure-tool
+    inputs: ["/Users/boyang/vapor5-webrtc-signaling-server/SignalingShared/Sources/SignalingShared/","/Users/boyang/vapor5-webrtc-signaling-server/SignalingShared/Package.swift","/Users/boyang/vapor5-webrtc-signaling-server/SignalingShared/Package.resolved"]
+    outputs: ["<PackageStructure>"]
+    description: "Planning build"
+    allow-missing-inputs: true
+

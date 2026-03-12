@@ -1,0 +1,4 @@
+module CNIOOpenBSD {
+    umbrella header "/Users/boyang/vapor5-webrtc-signaling-server/.build/checkouts/swift-nio/Sources/CNIOOpenBSD/include/CNIOOpenBSD.h"
+    export *
+}

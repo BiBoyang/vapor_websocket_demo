@@ -1,0 +1,4 @@
+module CNIOWASI {
+    umbrella header "/Users/boyang/vapor5-webrtc-signaling-server/.build/checkouts/swift-nio/Sources/CNIOWASI/include/CNIOWASI.h"
+    export *
+}

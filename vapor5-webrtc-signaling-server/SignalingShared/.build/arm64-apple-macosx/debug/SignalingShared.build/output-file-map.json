@@ -1,0 +1,12 @@
+{
+  "": {
+    "swift-dependencies": "/Users/boyang/vapor5-webrtc-signaling-server/SignalingShared/.build/arm64-apple-macosx/debug/SignalingShared.build/master.swiftdeps"
+  },
+  "/Users/boyang/vapor5-webrtc-signaling-server/SignalingShared/Sources/SignalingShared/SignalingModels.swift": {
+    "dependencies": "/Users/boyang/vapor5-webrtc-signaling-server/SignalingShared/.build/arm64-apple-macosx/debug/SignalingShared.build/SignalingModels.d",
+    "object": "/Users/boyang/vapor5-webrtc-signaling-server/SignalingShared/.build/arm64-apple-macosx/debug/SignalingShared.build/SignalingModels.swift.o",
+    "swiftmodule": "/Users/boyang/vapor5-webrtc-signaling-server/SignalingShared/.build/arm64-apple-macosx/debug/SignalingShared.build/SignalingModels~partial.swiftmodule",
+    "swift-dependencies": "/Users/boyang/vapor5-webrtc-signaling-server/SignalingShared/.build/arm64-apple-macosx/debug/SignalingShared.build/SignalingModels.swiftdeps",
+    "diagnostics": "/Users/boyang/vapor5-webrtc-signaling-server/SignalingShared/.build/arm64-apple-macosx/debug/SignalingShared.build/SignalingModels.dia"
+  }
+}

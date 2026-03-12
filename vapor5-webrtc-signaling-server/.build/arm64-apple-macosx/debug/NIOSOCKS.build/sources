@@ -1,0 +1,12 @@
+'/Users/boyang/vapor5-webrtc-signaling-server/.build/checkouts/swift-nio-extras/Sources/NIOSOCKS/Channel Handlers/SOCKSClientHandler.swift'
+'/Users/boyang/vapor5-webrtc-signaling-server/.build/checkouts/swift-nio-extras/Sources/NIOSOCKS/Channel Handlers/SOCKSServerHandshakeHandler.swift'
+/Users/boyang/vapor5-webrtc-signaling-server/.build/checkouts/swift-nio-extras/Sources/NIOSOCKS/Messages/AuthenticationMethod.swift
+/Users/boyang/vapor5-webrtc-signaling-server/.build/checkouts/swift-nio-extras/Sources/NIOSOCKS/Messages/ClientGreeting.swift
+/Users/boyang/vapor5-webrtc-signaling-server/.build/checkouts/swift-nio-extras/Sources/NIOSOCKS/Messages/Errors.swift
+/Users/boyang/vapor5-webrtc-signaling-server/.build/checkouts/swift-nio-extras/Sources/NIOSOCKS/Messages/Helpers.swift
+/Users/boyang/vapor5-webrtc-signaling-server/.build/checkouts/swift-nio-extras/Sources/NIOSOCKS/Messages/Messages.swift
+/Users/boyang/vapor5-webrtc-signaling-server/.build/checkouts/swift-nio-extras/Sources/NIOSOCKS/Messages/SOCKSRequest.swift
+/Users/boyang/vapor5-webrtc-signaling-server/.build/checkouts/swift-nio-extras/Sources/NIOSOCKS/Messages/SOCKSResponse.swift
+/Users/boyang/vapor5-webrtc-signaling-server/.build/checkouts/swift-nio-extras/Sources/NIOSOCKS/Messages/SelectedAuthenticationMethod.swift
+/Users/boyang/vapor5-webrtc-signaling-server/.build/checkouts/swift-nio-extras/Sources/NIOSOCKS/State/ClientStateMachine.swift
+/Users/boyang/vapor5-webrtc-signaling-server/.build/checkouts/swift-nio-extras/Sources/NIOSOCKS/State/ServerStateMachine.swift

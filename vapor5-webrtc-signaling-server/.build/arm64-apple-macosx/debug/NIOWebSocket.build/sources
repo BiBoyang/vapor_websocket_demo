@@ -1,0 +1,10 @@
+/Users/boyang/vapor5-webrtc-signaling-server/.build/checkouts/swift-nio/Sources/NIOWebSocket/NIOWebSocketClientUpgrader.swift
+/Users/boyang/vapor5-webrtc-signaling-server/.build/checkouts/swift-nio/Sources/NIOWebSocket/NIOWebSocketFrameAggregator.swift
+/Users/boyang/vapor5-webrtc-signaling-server/.build/checkouts/swift-nio/Sources/NIOWebSocket/NIOWebSocketServerUpgrader.swift
+/Users/boyang/vapor5-webrtc-signaling-server/.build/checkouts/swift-nio/Sources/NIOWebSocket/SHA1.swift
+/Users/boyang/vapor5-webrtc-signaling-server/.build/checkouts/swift-nio/Sources/NIOWebSocket/WebSocketErrorCodes.swift
+/Users/boyang/vapor5-webrtc-signaling-server/.build/checkouts/swift-nio/Sources/NIOWebSocket/WebSocketFrame.swift
+/Users/boyang/vapor5-webrtc-signaling-server/.build/checkouts/swift-nio/Sources/NIOWebSocket/WebSocketFrameDecoder.swift
+/Users/boyang/vapor5-webrtc-signaling-server/.build/checkouts/swift-nio/Sources/NIOWebSocket/WebSocketFrameEncoder.swift
+/Users/boyang/vapor5-webrtc-signaling-server/.build/checkouts/swift-nio/Sources/NIOWebSocket/WebSocketOpcode.swift
+/Users/boyang/vapor5-webrtc-signaling-server/.build/checkouts/swift-nio/Sources/NIOWebSocket/WebSocketProtocolErrorHandler.swift
