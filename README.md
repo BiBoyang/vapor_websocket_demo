@@ -1,7 +1,7 @@
 # vapor_websocket_demo
 
 
-A minimal WebRTC signaling server built with Vapor and WebSocket.
+A minimal WebRTC signaling server built with Vapor(swift) and WebSocket.
 
 ## Tech Stack
 
